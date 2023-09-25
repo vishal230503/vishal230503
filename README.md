@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishal230503
-- 👀 I’m interested in coding 
+- 👀 I’m interested in coding , web development
 - 🌱 I’m currently learning Full stack java course
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
